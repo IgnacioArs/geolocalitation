@@ -1,0 +1,27 @@
+para realizar este context hay que instalar algunos modulos como por ejemplo
+
+-npm install axios para realizar peticiones a otros servidores
+-npm install bootstrap para stilizar la aplicacion
+-npm install react-bootstrap bootstrap@5.2.0-beta1
+-npm install mdb-react-ui-kit
+//para poder manejar las rutas y enrutar los componentes gracias a este paquete
+-npm install react-router-dom@6
+//para encriptar las contraseña de los administradores devemos instalar el repositorio brcrypt
+-npm install bcryptjs
+//para instalar time.ago hay que instalar el siguiente repositorio
+-npm install timeago.js
+//para instalar el modulo de conexion base de datos que en este caso sera mariadb php mysql
+-npm install mysql 
+//PARA REALIZAR LA CONEXION A LA BASE DE DATOS DEBEMOS CREAR NUESTROBACKEND HACER CONEXION DESDE AQUI
+-npm install axios
+//PARA LOS ICONOS DEVEMOS REALIZAR LO SIGUIENTE
+-npm install font-awesome
+-npm install sweetalert 
+-npm i react-hook-form ---> ayudara a poder trabajar mejor con los formularios
+-npm install react-bootstrap bootstrap para los estilos
+-https://fontawesome.com/v5/docs/web/use-with/react font awesome
+https://youtu.be/7xRVnmWcTE8?t=1838
+https://youtu.be/re3OIOr9dJI?t=2327
+
+//localStorage
+https://youtu.be/Qp-fC9zXyJ4?t=665

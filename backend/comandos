@@ -1,0 +1,24 @@
+//comandos para el servidor
+-npm install socket.io --> por si quiere implementar
+-npm init --yes
+-npm install express mysql
+-npm install morgan ---> asi podemos gestionar mejor los cambios
+-CREAMOS UN ARCHIVO index en la carpeta principal y sera nuestro archivo servidor
+-AL MOMENTO DE REALIZAR LAS PETICIONES CON AXIOS DESDE NUESTRO FRONTEND HACIA NUESTRO BACKEND NECESITAMOS INSTALAR EL SIGUIENTE MODULO
+-npm install cors
+-npm install nodemon -D
+-npm install bcryptjs
+-npm install dotenv
+-npm install jsonwebtoken
+-npm install mongoose
+-npm install swagger-jsdoc ---> para la configuracion de swaggers --> y refencias que ara nuestro codigo
+-npm install swagger-ui-express  ---> crear una interface web dentro de rest-api y poder integrar una vista
+
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+
+    "type": "module",
+
+

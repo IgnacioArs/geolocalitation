@@ -1,0 +1,10 @@
+nodejs enviar datos para mongo
+https://youtu.be/htlt7L8Yl1k?t=224
+
+para pasar de json a c# transformarlo en clase
+https://json2csharp.com/
+
+conectar xamarin con api hhttp get y post
+https://www.youtube.com/watch?v=1cMwQujZwYk&list=PL2xycGX1pDXOYu02WwdsTvhzpWfcXv_mS&ab_channel=AguilarSystemsMX
+
+
